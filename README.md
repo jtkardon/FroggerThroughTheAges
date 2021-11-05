@@ -1,2 +1,2 @@
 # FroggerThroughTheAges
-By Jelly Frog Studios
+Created By Jelly Frog Studios
